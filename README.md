@@ -1,6 +1,9 @@
 # oop-design-library-system
 
+## Iteration 1: The Book Entity
 ![Build Step 1](build-steps/custom-program-iter-1.png)
+
+## Iteration 2: The Member Entity
 ![Build Step 2](build-steps/custom-program-iter-2.png)
 ![Build Step 3](build-steps/custom-program-iter-3.png)
 ![Build Step 4](build-steps/custom-program-iter-4.png)
